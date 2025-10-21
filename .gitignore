@@ -1,0 +1,35 @@
+ Compiled object files
+*.o
+*.obj
+
+ Compiled binary files
+*.exe
+*.out
+*.app
+
+ User data file
+users.txt
+
+ Temporary or backup files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+ Build directories
+/build/
+bin/
+debug/
+release/
+
+ IDE / Editor specific
+.vscode/
+.idea/
+*.code-workspace
+
+ macOS system files
+.DS_Store
+
+ Windows thumbnail cache
+Thumbs.db
